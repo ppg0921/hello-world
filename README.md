@@ -1,2 +1,3 @@
 # hello-world
-for practice
+for practicc
+Hi, I am a senior high school student. yeah~~
